@@ -29,19 +29,19 @@ You should have something that looks like below:
 <br>Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_Shadowheart_NM.dds
 
 **FEMALE PLAYER & NPCS**
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_F_NKD\Resources\ELF_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_FS_NKD\Resources\ELF_FS_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Githyanki\GTY_F_NKD\Resources\GTY_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_FS_NKD\Resources\HUM_FS_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_F_NKD\Resources\TIF_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_F_NKD\Resources\ELF_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_FS_NKD\Resources\ELF_FS_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Githyanki\GTY_F_NKD\Resources\GTY_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_FS_NKD\Resources\HUM_FS_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_F_NKD\Resources\TIF_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_A_NM.dds`
 
 **CURRENT TEXTURES NOT SUPPORTED**
 - Dwarves
 - Gnomes
 - Halflings
   
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Dwarves\DWR_F_NKD\Resources\DWR_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Gnomes\GNO_F_NKD\Resources\GNO_F_NKD_Body_A_NM.dds`
-<br>`Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Halflings\HFL_F_NKD\Resources\HFL_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Dwarves\DWR_F_NKD\Resources\DWR_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Gnomes\GNO_F_NKD\Resources\GNO_F_NKD_Body_A_NM.dds`
+- `Steam Launcher\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Shared\Assets\Characters\_Models\Halflings\HFL_F_NKD\Resources\HFL_F_NKD_Body_A_NM.dds`
