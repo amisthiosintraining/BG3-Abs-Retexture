@@ -21,7 +21,7 @@ Please read instructions to each tool necessary on their mod pages. This is very
 Example:  `[drive]:\Steam Launcher\steamapps\common\Baldurs Gate 3\Data\`**Generated**
 
 5. Download *Companions - Old Shaders* and drag the zip in BG3 Mod Manager. Then unzip `Companions - Old Shaders (Original Textures).7z` file and copy and paste *Generated* folder into your *Data* folder (you will find it in your BG3 game folder).
-6. Lastly, download *Female-NPCs and Player* and/or *Companions-Shadowheart* and copy and paste *Generated* into your *Data* folder.
+6. Lastly, download *Female-NPCs and Player* and/or *Companions-Shadowheart*, *Companions-Karlach* and copy and paste *Generated* into your *Data* folder.
 
 You should have something that looks like below:
 
