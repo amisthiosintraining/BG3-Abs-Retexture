@@ -25,20 +25,18 @@ Example:  `[drive]:\Steam Launcher\steamapps\common\Baldurs Gate 3\Data\`**Gener
 
 You should have something that looks like below:
 
-### Shadowheart
-- `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_Shadowheart_NM.dds`
-
-### Karlach
-- `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_Karlach_A_NM.DDS`
+### Companions
+- Shadowheart: `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_Shadowheart_NM.dds`
+- Karlach: `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_Karlach_A_NM.DDS`
 
 ### Female Player and NPC
-- `Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_F_NKD\Resources\ELF_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_FS_NKD\Resources\ELF_FS_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Githyanki\GTY_F_NKD\Resources\GTY_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_FS_NKD\Resources\HUM_FS_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_F_NKD\Resources\TIF_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Dwarves\DWR_F_NKD\Resources\DWR_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Gnomes\GNO_F_NKD\Resources\GNO_F_NKD_Body_A_NM.dds`
-- `Generated\Public\Shared\Assets\Characters\_Models\Halflings\HFL_F_NKD\Resources\HFL_F_NKD_Body_A_NM.dds`
+- Elf (high/wood/drow): `Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_F_NKD\Resources\ELF_F_NKD_Body_A_NM.dds`
+- Elf Strong (high/wood/drow): `Generated\Public\Shared\Assets\Characters\_Models\Elves\ELF_FS_NKD\Resources\ELF_FS_NKD_Body_A_NM.dds`
+- Githyanki: `Generated\Public\Shared\Assets\Characters\_Models\Githyanki\GTY_F_NKD\Resources\GTY_F_NKD_Body_A_NM.dds`
+- Human (human/half elf): `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_F_NKD\Resources\HUM_F_NKD_Body_A_NM.dds`
+- Human Strong (human/half elf): `Generated\Public\Shared\Assets\Characters\_Models\Humans\HUM_FS_NKD\Resources\HUM_FS_NKD_Body_A_NM.dds`
+- Tiefling: `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_F_NKD\Resources\TIF_F_NKD_Body_A_NM.dds`
+- Tielfing Strong: `Generated\Public\Shared\Assets\Characters\_Models\Tieflings\TIF_FS_NKD\Resources\TIF_FS_NKD_Body_A_NM.dds`
+- Dwarf: `Generated\Public\Shared\Assets\Characters\_Models\Dwarves\DWR_F_NKD\Resources\DWR_F_NKD_Body_A_NM.dds`
+- Gnome: `Generated\Public\Shared\Assets\Characters\_Models\Gnomes\GNO_F_NKD\Resources\GNO_F_NKD_Body_A_NM.dds`
+- Halfling: `Generated\Public\Shared\Assets\Characters\_Models\Halflings\HFL_F_NKD\Resources\HFL_F_NKD_Body_A_NM.dds`
